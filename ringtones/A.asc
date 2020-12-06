@@ -1,0 +1,83 @@
+A-ha - Lifelines
+2 A1 A1 A1 G-2 R2 F-1 F-1 F-1 E-2 R2 A1 A1 A1 G-2 R2 E-1 E-1 E-1 D-2 R4 D-2 D-1 E-1 F-4 A5 G-5 F-2 G-4 F-1 D-1
+
+Alex Butcher - More & More
+4 D-1 R2 D-1 R2 D-1 R6 F-1 R2 C-1 R6 D-1 R2 D-1 R2 D-1 R6 F-1 R2 F-1 R2 E-1 R6 D-1 R2 D-1 R2 D-1 R6 F-1 R2 F-1 R2 E-1 R6 D-1 R2 D-1 R2 D-1 R6 F-1 R2 F-1 R2 C-1
+
+Alex C. feat. Yasmin K. - Amigos Forever
+1 D2 E2 F2 R2 D2 E2 F2 R2 F2 A+2 A#+2 A#+2 F2 F2 R3 F2 F2 E2 E2 D2 C2 R3 A2 C2 D4
+
+Alicja Janosz i Przyjaciele - Może Się Wydawać
+2 B1 C#1 E1 C#1 E2 G#3 R2 B1 C#1 E1 C#1 F#1 F#2 F#2 G#2 F#2 R2 B1 C#1 E1 C#1 F#1 F#2 F#2 G#2 E2 R2 C#1 E1 G2 F#2 G2 F#2
+
+Alicja Janosz - Zbudziłam Się
+4 A2 G-1 F-2 F-4 D-2 F-2 G-1 A2 A2 R4 A2 G-1 F-2 F-4 D-2 F-2 F-3 C-2 R3 A2 G-1 F-2 F-4 D-2 F-2 G-1 A2 A2 R4 F-2 G-1 A2 A3 G-5
+
+Alizee - Moi Lolita
+2 A2 B2 C#1 A2 E-2 R2 A2 B2 C#1 B2 A2 B2 A2 B2 R2 C#2 B2
+
+Andre Visior - Don't Go 
+4 A1 A1 F2 F2 E2 E2 D1 A2 A3 A1 A1 F2 F2 E2 E2 D1 A+2 A+2 A1 A1 F2 F2 E2 E2 D1 A2 A3 A1 A1 F2 F2 E2 E2 D1 A+2
+
+Andre Visior - Speed Up (Luvstruck 2002)
+4 D-2 F-2 G-2 F-2 D-2 G-2 A#2 G-2 D-2 E-2 F-2 E-2 D-2 A2 B2 A2 D-2 F-2 G-2 F-2 D-2 G-2 A#2 G-2 D-2 E-2 F-2 E-2 D-2 A2 B2 A2
+
+Angel One - Into Your Eyes
+4 A2 R2 A2 R2 A2 R2 A2 E2 B2 R2 B2 R2 B2 R2 B2 R2 B2 C2 G-2 R2 G-2 R2 G-2 R2 G-2 E-2 A2 R2 A2 A2 E2 D2 C2 B2 A2
+
+Anna Jurksztowicz - Na Dobre I Na Złe
+2 A2 A2 A2 F-2 F-2 D-2 R3 D-4 D2 C4 A#3 R2 A2 A2 A2 F-2 F-2 D-2 R3 E-4 E-2 F-4 E-2 D-2
+
+Apollo - Dance
+4 C4 R4 A2 B2 C4 B2 A4 G-4 G-4 R4 C-2 G-4 E-2 G-4 A4 B4 R5 B4 A2 G-4 F#-4 F#-4 G-2 E-4
+
+Aquagen - Capricorn 
+4 A2 R2 A2 G-2 R2 G-2 R2 D#-2 R2 D#-2 R2 G-2 R2 G-2 F-2 G-2 C2 R2 C2 A#2 R2 A#2 R2 G-2 R2 G-2 R2 A#2 R2 G-2 A#2 G-2 A2
+
+Aquagen - Hard To Say I'm Sorry 
+4 F-6 B-2 C-4 R4 F-2 F-2 F-2 F-2 F-4 E-4 D-4 C-2 R2 F-2 F-2 F-2 F-2 F-4 F-2 F-2 F-4 G-2 E-6 E-2 E-2 E-4 E-2 E-2 E-4 E-2 E-2 E-2 E-4 F-2 D-6
+
+Aquagen feat. Rozalla - Everybody's Free 
+4 F2 G2 A+3 F1 R2 F1 R1 F3 F1 R2 F1 R1 A+3 A+1 R2 A+1 R1 G3 G1 R2 G1 R1 D3 D1 R2 D1 R1 C3 C1 R1 C1 R1 F3 F1
+
+Aquagen - Summer Is Calling 
+4 E-2 F-2 D-2 R2 C-2 D-2 E-2 R2 C-2 E-2 F-2 R2 F-2 R2 F-2 R2 E-2 F-2 D-2 C-2 D-2 C-2 A2 R2 G-2 F-2
+
+ATB - 9pm (Till I Come)
+2 D1 R1 D1 R1 D1 E1 D1 E1 F1 R1 F1 R1 F1 G1 A1 D1 C1 R1 C1 R1 C1 D1 C1 D1 E1 R1 C1 R1 E1 F1 G1 F1 D1
+
+ATB - Don't Stop
+4 F-1 R1 F-1 R1 F-1 R1 F-1 R1 F-1 G-1 R2 A1 R3 C1 R1 C1 R1 C1 R1 C2 D2 C2
+
+ATB - Give You More
+4 E2 E2 R2 E2 R2 D2 E2 R2 D2 D2 R2 D2 D2 B2 A2 B2 A2 A2 R2 A2 R2 A2 B2 D2 E2 E2 R2 E2 R2 D2 E2
+
+ATB - Hold You
+4 C-2 R1 B-2 R1 C-2 R1 B-2 R1 C-2 B-2 D-2 R1 C-2 R1 D-2 R1 C-2 R1 D-2 C-2 E-2 R1 D-2 R1 E-2 R1 D-2 R1 E-2 D-2 E-2 R2 E-2 F-3 F-3
+
+ATB - Kayama
+2 E3 R5 A+3 R4 G3 C3 R6 D1 E3 F3 R8 E1 F3 G-4 R8 R2 E3 R5 A+3 R4 G3 C3 R6 D1 E3 F3 R6 E1 F3 R4 E3 G-3
+
+ATB - Killer 2000
+2 D1 D1 D2 D#1 D1 C4 R4 D1 D1 D2 D#1 D2 C2 B1 A#1 D2 R4 D1 D1 D2 D#1 D1 C4 R4 D1 D1 D2 D#1 D2 C2 B3 A#3 A3
+
+ATB - Let U Go
+4 E-2 E-2 R1 B2 R1 A2 R1 G-2 R1 A2 B2 A2 R5 R5 A2 G-2 R1 G-2 R1 G-2 R1 G-2 R1 G-2 R1 A2 B2 G-2
+
+ATB - My Dream
+4 D1 E1 F2 F2 F3 F3 F2 F2 G2 E2 E2 E3 E3 C2 C3 F-3 F-2 F-3 F-3 F-2 F-3 F-3 F-3 F-2 F-3 F-3
+
+ATB - Sunburn
+4 E3 E3 E2 E3 D3 E2 B3 B3 B2 B3 B3 A3 B2 C3 C3 C2 C3 D3 C2 G-3 G-3 G-2 G-3 A3 G-2
+
+ATB - The Summer
+4 D2 E2 D2 B2 F2 R3 F2 G2 F4 C2 R2 C2 D2 C2 A#2 C2 A#2 G#-2 D2 R2 D2 E2 D4 E2 R2 E2 R2 F2
+
+ATB - You're Not Alone
+4 G-2 R4 G-2 R4 G-2 R4 D-2 R4 D-2 R4 D-2 A2 R4 A2 R4 A2 R4 F-#2 R4 F-#2 R4 F-#2 G-2
+
+ATB vs Miss Jane - It's A Fine Day
+4 A2 A2 A2 A2 A2 F6 E4 F2 E4 R2 A2 A2 A2 A2 A2 E6 D4 E2 D4
+
+Axel Coon - Close To You
+4 F-2 R2 F-2 R4 F-2 R2 F-2 E-2 R4 E-2 R2 E-2 R2 E-2 A2 R2 A2 R4 A2 R2 A2 F-2 R4 F-2 R2 F-2 E-2
