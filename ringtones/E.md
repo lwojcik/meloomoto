@@ -1,0 +1,26 @@
+E Nomine - Deine Welt
+4 C2 D2 D2 R4 C2 D2 D2 R4 D2 F3 E3 C2 C2 R2 A#2 C2 C2 R4 A#2 C2 C2 R4 F3 E3 D2 D2 R2 C2 D2 D2 R4 C2 D2 D2
+
+E Nomine - Mitternacht
+4 G-4 G-4 F-4 D-2 R2 G-4 G-4 F-2 E-2 R4 G-4 G-4 F-4 D-2 R2 G-4 A4 E-2 F-2 R5 D-3 E-1 F-3 E-4 D-2 R4 D-2 F-2 G-2 A2
+
+Earth 2140 Theme
+2 D-3 G-3 A#3 A3 F-3 G-5 R3 D-3 G-3 A#3 A3 F-3 G-5 R3 D-3 G-3 C#3 C3 G-#3 A#3 G-3 D-4 C-2 G-2 A#3 A3 F-3 G-5
+
+Edyta - Impossible
+4 D-2 G-4 A4 A#4 A2 G-2 R7 D-2 G-4 A4 A#2 R2 A2 G-2 R2 D-2 R2 C-2 R6 D-2 D-2 D-2 F-2 G-2 D-5 C-2 D-5
+
+Eiffel 65 - Move Your Body
+4 F-2 E-2 F-2 C-2 D-2 R2 C-2 D-2 A2 R2 G-2 R2 E-2 R2 C-2 D-2 F-2 E-2 F-2 C-2 R-2 R2 C-2 D-2 A2 R2 G-2 R2 E-2
+
+Eminem - Cleaning Out My Closet
+2 G1 A+1 G1 A+2 A+2 R4 F1 G1 F1G1 F1 G1 G2 A+2 R4 F1 G1 F1 G1 F1 G2 A+3 D3 D1 D1 C#1 R4 C#1 D1 E1 D1 D#2 D#2
+
+Eminem - Without Me
+2 D1 A#+1 A+1 G+1 D1 R4 D1 C1 D1 F1 D1 R4 D1 C1 D1 C1 A#1 R4 A#1 A1 F-1 G-1
+
+Era - Ameno
+2 E2 F2 F2 R4 E2 F2 F2 F2 E2 F2 F2 F2 E2 F2 F2 R4 D2 C2 C2 R2 D2 C2 C2 R2 C2 B2 B2 R4 C2 B2 B2 R2 B2 A2 A2
+
+Excessive Speed Theme
+2 D-2 F-3 G-8 G#-2 D-2 R4 D-2 F-3 G-8 G#-2 D-2 R4 D-2 F-3 A8 A#2 D-2 R4 D-2 F-3 A8 G-2 C2
