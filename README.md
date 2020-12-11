@@ -8,7 +8,7 @@ The *ringtones* directory contains all ringtones I composed throughout whole lif
 
 ## How did it work?
 
-Around 2000s many Motorola phones were equipped with a ringtone editor and allowed for using custom ringtones received via a text message. To have a customized ringtone you had to do one of the following:
+In the early 2000s many Motorola phones featured a ringtone editor and allowed for using custom ringtones received via a text message. To set up a customized ringtone you had to do one of the following:
 
 * compose it yourself in the editor
 * use a premade ringtone from a website like mine and type it carefully into the editor
